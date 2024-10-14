@@ -1,0 +1,7 @@
+C:\Users\SHUSHAN.TAN\source\repos\SubDirectoriesCheck\SubDirectoriesCheck\bin\Debug\SubDirectoriesCheck.exe.config
+C:\Users\SHUSHAN.TAN\source\repos\SubDirectoriesCheck\SubDirectoriesCheck\bin\Debug\SubDirectoriesCheck.exe
+C:\Users\SHUSHAN.TAN\source\repos\SubDirectoriesCheck\SubDirectoriesCheck\bin\Debug\SubDirectoriesCheck.pdb
+C:\Users\SHUSHAN.TAN\source\repos\SubDirectoriesCheck\SubDirectoriesCheck\obj\Debug\SubDirectoriesCheck.csproj.AssemblyReference.cache
+C:\Users\SHUSHAN.TAN\source\repos\SubDirectoriesCheck\SubDirectoriesCheck\obj\Debug\SubDirectoriesCheck.csproj.CoreCompileInputs.cache
+C:\Users\SHUSHAN.TAN\source\repos\SubDirectoriesCheck\SubDirectoriesCheck\obj\Debug\SubDirectoriesCheck.exe
+C:\Users\SHUSHAN.TAN\source\repos\SubDirectoriesCheck\SubDirectoriesCheck\obj\Debug\SubDirectoriesCheck.pdb
